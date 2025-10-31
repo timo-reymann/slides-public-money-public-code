@@ -123,7 +123,7 @@ What it is all about and why it just makes sense.
 
 - 2021
     - Features are added, bugs are fixed - lot of community contributions
-    - used as blueprint for other countries
+    - Used as blueprint for other countries
 - 2023
     - Still in use, still maintained
     - Possibly used for other purposes in the future
@@ -184,11 +184,11 @@ Public Money - Public Code is a initiative by the Free Software Foundation
 
 # What can you do?
 
-- check programs for political parties
-- ask your local government about the software they use
-- ask for transparency
-- support the initiative
-- spread the word
+- Check programs for political parties
+- Ask your local government about the software they use
+- Ask for transparency
+- Support the initiative
+- Spread the word
 
 ---
 
