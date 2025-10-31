@@ -16,20 +16,31 @@ What it is all about and why it just makes sense.
 
 # The world we are living in
 
-- is getting more digital every day
-- software is everywhere
-- governments and public institutions use mostly proprietary software or manual processes
-- effort is duplicated all over the world
-- we pay all of those with our taxes
+- Is getting more digital every day
+- Software is **everywhere**
+- Governments and public institutions use mostly proprietary software or manual processes
+- Effort is duplicated all over the world
+- We pay all of those with our taxes
 
 ---
 
-# Why is that an issue?
+# What is Open Source?
 
-- its not always transparent what money is spent on (e.g. licenses)
-- much of the used software used is neither secure nor reliable
-- every institution has to solve the same problems over and over again
-- security by obscurity is not a good idea
+- Software whose source code is publicly available
+- Anyone can view, use, modify, and distribute the software
+- Licensed to ensure freedom and collaboration
+- Examples: Linux, Firefox, LibreOffice, Corona Warn App
+
+---
+
+# Why does it matter?
+
+- Its not always transparent what money is spent on (e.g. licenses)
+- Much of the used software used is neither secure nor reliable
+- Every institution has to solve the same problems over and over again
+- Security by obscurity is not a good idea
+- **Geopolitical pressure through dependencies** on foreign vendors
+- **Vendor lock-in** leads to unpredictable cost changes and loss of control
 
 ---
 
@@ -45,10 +56,10 @@ What it is all about and why it just makes sense.
 
 # PC-Wahl - German election software
 
-- used in many german states
-- proprietary software
-- security issues until this day
-- no transparency
+- Used in many german states
+- Proprietary software
+- Security issues until this day
+- No transparency
 
 ---
 
@@ -58,21 +69,21 @@ What it is all about and why it just makes sense.
 
 - 2017
     - CCC finds security issues that allow tampering with election results
-    - updates are provided, but dont fix the issues
+    - Updates are provided, but dont fix the issues
     - CCC provides a open source version of the software which is secure, but will never be used
 - 2024
-    - is used for election in Saxony
-    - calculates wrong results
-    - only corrected due to manual recount by independent experts
+    - Is used for election in Saxony
+    - Calculates wrong results
+    - Only corrected due to manual recount by independent experts
 
 ---
 
 # PC-Wahl - German election software
 
-- still used in many states
-- no transparency about the software and its security
-- patches have been provided - payed, with our taxes
-- still not secure
+- Still used in many states
+- No transparency about the software and its security
+- Patches have been provided - payed, with our taxes
+- Still not secure
 
 ---
 
@@ -84,11 +95,11 @@ What it is all about and why it just makes sense.
 
 # Real world examples | Corona Warn App
 
-- started in April 2020, during the pandemic
-- development led by SAP and Deutsche Telekom
-- widely used in Germany (over 45 million downloads)
-- open source from the beginning
-- privacy by default
+- Started in April 2020, during the pandemic
+- Development led by SAP and Deutsche Telekom
+- Widely used in Germany (over 45 million downloads)
+- Open source from the beginning
+- Privacy by default
 - 50 days until the first release
 
 ---
@@ -98,11 +109,11 @@ What it is all about and why it just makes sense.
 ## Timeline
 
 - April 2020
-    - planning starts
+    - Planning starts
 - May 2020
-    - development starts, fully on GitHub
+    - Development starts, fully on GitHub
 - June 2020
-    - first release
+    - First release
 
 ---
 
@@ -111,11 +122,11 @@ What it is all about and why it just makes sense.
 ## Timeline
 
 - 2021
-    - features are added, bugs are fixed - lot of community contributions
+    - Features are added, bugs are fixed - lot of community contributions
     - used as blueprint for other countries
 - 2023
-    - still in use, still maintained
-    - possibly used for other purposes in the future
+    - Still in use, still maintained
+    - Possibly used for other purposes in the future
 
 ---
 
@@ -132,12 +143,31 @@ What it is all about and why it just makes sense.
 
 ---
 
+# Press Samples
+
+- **Microsoft blocks ICC Chief Prosecutor’s email (2025)**
+    Due to US sanctions, Microsoft locked the International Criminal Court’s chief prosecutor and staff out of their email
+- **Broadcom/VMware acquisition (2023)**
+    License costs for public institutions skyrocketed overnight
+- **Microsoft Office price hikes (2022)**
+    Sudden changes in licensing models led to unexpected expenses for
+  municipalities.
+
+---
+
+# Success Stories
+- **France**: Migrated public administration to Linux and open-source tools, saving millions annually.
+- **Estonia**: X-Road platform enables secure data exchange across government agencies, fully open source.
+- **Italy**: IO app for digital citizen services, open source and widely adopted.
+- **EU**: FIWARE platform for smart cities, used by over 400 cities worldwide.
+---
+
 # Conclusion
 
-- public code works
-- open source is more secure, not less
-- cost and effort is reduced
-- fosters collaboration and engagement with the people
+- Public code works
+- Open source is more secure, not less
+- Cost and effort is reduced
+- Fosters collaboration and engagement with the people
 
 ---
 
